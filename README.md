@@ -111,7 +111,7 @@ Secuencia aditiva esxclusiva:
 
 Programación Experta
 
-Ejercicio 1: Desarrolla una biblioteca
+Ejercicio 1: Desarrolla una biblioteca.
 
 
 
